@@ -1,4 +1,4 @@
-# Laboratory-Work-5-Activity---Applying-DAX-Fundamentals-in-Power-BI
+# Laboratory-Work-5-Activity---Applying-DAX-Fundamentals-in-Power-BI (USE CASE SCENARIO)
 
 
 ### 1. Measures vs. Calculated Columns
